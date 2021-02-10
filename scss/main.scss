@@ -96,10 +96,10 @@ main {
     grid-area: job2;
     font-size: 1.2rem;
   }
-  .job-3 {
-    grid-area: job3;
-    font-size: 1.2rem;
-  }
+  // .job-3 {
+  //   grid-area: job3;
+  //   font-size: 1.2rem;
+  // }
 
   .job {
     background: lighten($primary-color, 5);
